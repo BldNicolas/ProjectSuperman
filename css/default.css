@@ -56,16 +56,16 @@ h2{
     color: var(--color-h2);
 }
 /* Class */
-*.colorBgArticle{
+*.colorBgBlock{
     background-color: var(--color-bg-article);
 }
-*.colorBgArticle > *{
+*.colorBgBlock > *{
     background-color: var(--color-bg-article);
 }
-*.colorBgArticle > * > i{
+*.colorBgBlock > * > i{
     background-color: var(--color-bg-article);
 }
-*.colorBgArticle > * > figcaption > *{
+*.colorBgBlock > * > figcaption > *{
     background-color: var(--color-bg-article);
 }
 .footerColor{
