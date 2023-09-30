@@ -12,6 +12,6 @@ Bien que je ne suis pas sur de bien avoir compris, mais j'ai essayé un maximum 
 
 ## La photo
 
-Voici la photo que j'ai utilisé pour se projet.
+Voici la photo que j'ai utilisé pour ce projet.
 
 ![Superman](./asset/superman.jpg)
